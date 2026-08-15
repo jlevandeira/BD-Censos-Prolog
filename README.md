@@ -1,5 +1,3 @@
-# Prolog
-
 # Base de Dados com base nos Censos de 2001 
 
 Este projeto implementa uma interface de linguagem natural em Prolog para consultar dados estatísticos do Censos 2001 de Portugal, utilizando um motor de base de dados SQLite em memória para garantir tempos de resposta imediatos.
